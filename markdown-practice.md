@@ -61,7 +61,7 @@ My strongest interests are:
 3. Web Development
 4. SQL
 
-   >Nobody does something for northing,even our creator wants our praises in return.
+   >Nobody does something for nothing,even our creator wants our praises in return.
 
 
 
