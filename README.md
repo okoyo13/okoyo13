@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-Hi there 👋 I'm Okoyo13
+## Hi there 👋 I'm Okoyo13
 
 I'm an aspiring AI enthusiast currently learning Artificial Intelligence and building my skills in data analysis, machine learning, and problem-solving.
 
@@ -31,4 +28,4 @@ I enjoy working with numbers, analyzing data, and discovering patterns that can 
 How to Reach Me
 
 Email : okoyorodricks@gmail.com
-
+Linkedin:Rodricks Okoyo
