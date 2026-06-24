@@ -1,16 +1,34 @@
 ## Hi there 👋
 
 <!--
-**okoyo13/okoyo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm Okoyo13
 
-Here are some ideas to get you started:
+I'm an aspiring AI enthusiast currently learning Artificial Intelligence and building my skills in data analysis, machine learning, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+🌱 Currently learning Artificial Intelligence (AI)
+📊 Interested in Data Analysis and Machine Learning
+💻 Exploring Python and AI tools
+📚 Passionate about turning data into useful insights
+🚀 Continuously improving my technical and analytical skills
+🎯 Goal: Build AI-powered solutions that solve real-world problems
+Skills I'm Building
+
+AI Fundamental
+Machine Learning
+Deep Learning
+Data Analytics
+Python Programming
+Current Project
+
+I'm working on strengthening my foundation in AI, data analytics, and machine learning while building practical projects to gain hands-on experience.
+
+Fun Fact
+
+I enjoy working with numbers, analyzing data, and discovering patterns that can help businesses make better decisions.
+
+How to Reach Me
+
+Email : okoyorodricks@gmail.com
+
