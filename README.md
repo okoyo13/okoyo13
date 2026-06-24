@@ -31,4 +31,4 @@ How to Reach Me
 
 Email : okoyorodricks@gmail.com
 
-Linkedin: Rodricks_okoyo
+Linkedin: https://linkedin.com/in/rodricks-okoyo-218960255/
