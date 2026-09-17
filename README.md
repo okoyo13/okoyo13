@@ -2,7 +2,7 @@ Hi there 👋 I'm Okoyo13
 
 💻 Programmer | 🤖 AI Enthusiast | 📊 Data Analyst in Training
 
-Welcome to my GitHub profile! I'm on a journey to become a versatile technology professional by combining programming, artificial intelligence, and data analysis.
+I'm on a journey to become a versatile technology professional by combining programming, artificial intelligence, and data analysis.
 
 I enjoy learning how technology works, solving problems with code, working with data, and building practical applications that can make a real difference.
 
