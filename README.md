@@ -1,31 +1,74 @@
-## Hi there 👋 I'm Okoyo13
+Hi there 👋 I'm Okoyo13
 
-I'm an aspiring AI enthusiast currently learning Artificial Intelligence and building my skills in data analysis, machine learning, and problem-solving.
+💻 Programmer | 🤖 AI Enthusiast | 📊 Data Analyst in Training
 
-About Me
+Welcome to my GitHub profile! I'm on a journey to become a versatile technology professional by combining programming, artificial intelligence, and data analysis.
 
-🌱 Currently learning Artificial Intelligence (AI)
-📊 Interested in Data Analysis and Machine Learning
-💻 Exploring Python and AI tools
-📚 Passionate about turning data into useful insights
-🚀 Continuously improving my technical and analytical skills
-🎯 Goal: Build AI-powered solutions that solve real-world problems
+I enjoy learning how technology works, solving problems with code, working with data, and building practical applications that can make a real difference.
 
-Skills I'm Building:
+🚀 What I'm Learning
 
-AI Fundamental
-Machine Learning
-Deep Learning
-Data Analytics
-Python Programming
+💻 Programming & Web Development
 
-Current Project
+- HTML & CSS
+- JavaScript
+- Python
+- Flask
+- Git & GitHub
+- APIs and backend development
 
-I'm working on strengthening my foundation in AI, data analytics, and machine learning while building practical projects to gain hands-on experience.
+🤖 Artificial Intelligence
 
-Fun Fact
+- AI fundamentals
+- Prompt engineering
+- Natural Language Processing (NLP)
+- Computer Vision
+- AI-powered applications
+- Working with Large Language Models (LLMs)
 
-I enjoy working with numbers, analyzing data, and discovering patterns that can help businesses make better decisions.
+📊 Data Analysis
+
+- Excel
+- Data cleaning
+- SQL
+- Data visualization
+- Power Query
+- Business and operations data analysis
+
+🛠️ What I Build
+
+I focus on practical projects that help me turn what I learn into real skills.
+
+Some of the projects I explore include:
+
+- 🌐 Websites and web applications
+- 🤖 AI assistants and chatbots
+- 📊 Data analysis projects
+- 🔌 API-based applications
+- 🗄️ Database-driven applications
+- 🧠 AI-powered solutions
+
+📚 My Learning Approach
+
+I believe the fastest way to improve is to learn, build, make mistakes, fix them, and build again.
+
+«Learn → Practice → Build → Break → Debug → Improve»
+
+Every project is an opportunity to understand something better and become a stronger problem solver.
+
+🎯 My Goal
+
+My goal is to develop strong technical skills and become capable of building intelligent, data-driven applications that solve real-world problems.
+
+I'm continuously improving my knowledge of programming, AI, and data while building projects that demonstrate what I can do.
+
+📂 Explore My Work
+
+Take a look through my repositories to see my projects, experiments, learning exercises, and progress.
+
+I'm still learning, but I'm building consistently and improving one project at a time.
+
+🚀 Keep Learning. Keep Building. Keep Improving.
 
 How to Reach Me
 
