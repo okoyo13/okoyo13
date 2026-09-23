@@ -1,16 +1,16 @@
-## My Learning Goals
+## My Learning Goals.
 
-### This Semester
+### This Semester.
 
-I'm eager to master fundamentals of *HTML*, *CSS*, and *JavaScript* before moving on to **modern frameworks and back-end tools.** Rather than simply memorizing code, `I want to develop a deep understanding of how and why things work, with an emphasis on problem-solving, clean code, and industry best practices`. In time, I hope to build responsive, user-friendly website and applications with confidence, and to keep improving as a developer through hands-on projects and continuous learning.
+I'm eager to master fundamentals of *HTML*, *CSS*, and *JavaScript* before moving on to **modern frameworks and back-end tools.** Rather than simply memorizing code, I want to develop a deep understanding of how and why things work, with an emphasis on problem-solving, `clean readable code,` and industry best practices. In time, I hope to build responsive, user-friendly website and applications with confidence, and to keep improving as a developer through hands-on projects and continuous learning.
 
-[My Github Profile](https://github.com/okoyo13)
+[My Github Profile](https://github.com/okoyo13).
 
 ### Things you want to learn:
 
-- React and modern front-end frameworks
-- Back-end development with Node.js
-- Database design and SQL
+- React and modern front-end frameworks.
+- Back-end development with Node.js.
+- Database design and SQL.
 
 
 ### Steps to make a commit in Git:
@@ -40,13 +40,13 @@ print("I am fascinated with Web Development!")
 
 > Curiosity killed the cat but satisfaction brought it back.
 
-# About Me
+# About Me.
 
 ## Okoyos'
 
-### Personal Profile
+### Personal Profile.
 
-I am a *practical learner* who prefers gaining skills through hands-on experience rather than theory alone. I am persistent when facing challenges and usually keep working through problems until I understand them. My current focus is **building technology and data-related skills** that can create better `career opportunities and help me grow professionally.`
+I am a *practical learner* who prefers gaining skills through hands-on experience rather than theory alone. I am persistent when facing challenges and usually keep working through problems until I understand them. My current focus is **building technology and data-related skills** that can create better career opportunities and help me grow professionally.
 
 ### My strongest interests are:
 1. HTML.
@@ -55,10 +55,3 @@ I am a *practical learner* who prefers gaining skills through hands-on experienc
 4. Python.
 
    > The expert in anything was once a beginner. — Always keep practicing, even when progress feels slow.
-
-
-
-
-
-
-
