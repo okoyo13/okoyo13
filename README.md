@@ -1,4 +1,4 @@
-Hi there 👋 I'm Okoyo13
+Hi there 👋 I'm okoyo13
 
 💻 Programmer | 🤖 AI Enthusiast | 📊 Data Analyst in Training
 
