@@ -20,11 +20,10 @@ I'm eager to master fundamentals of *HTML*, *CSS*, and *JavaScript* before movin
 3. Run (git commit -m "message") to commit the changes.
 4. Run (git push origin main) to push the commits to GitHub.
 
-Table:
 
-| Tool    | Purpose         | Link                                                 |
-|---------|-----------------|------------------------------------------------------|
-| Git     | Version control |[git-scm.com](https://git-scm.com)                    |
+| Tool    | Purpose   | Link   |
+|---------|-----------|--------|
+| Git     | Version control |[git-scm.com](https://git-scm.com) |
 | VS Code | Code editor     |[code.visualstudio.com](https://code.visualstudio.com)|
 
 ### My Learning Task Lists.
