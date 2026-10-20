@@ -38,10 +38,10 @@ To become a skilled web developer by practicing consistently, building projects,
 
 ---
 
-Thanks for visiting my profile! 😊
-
 How to Reach Me
 
 Email : okoyorodricks@gmail.com
 
 Linkedin: https://linkedin.com/in/rodricks-okoyo-218960255/
+
+Thanks for visiting my profile! 😊
