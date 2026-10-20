@@ -1,74 +1,44 @@
-Hi there 👋 I'm okoyo13
+# Hi, I'm Rodricks Okoyo 👋
 
-💻 Programmer | 🤖 AI Enthusiast | 📊 Data Analyst in Training
+I'm a web development student building my skills in HTML, CSS, JavaScript, Git, and GitHub.
 
-I'm on a journey to become a versatile technology professional by combining programming, artificial intelligence, and data analysis.
+## 🌐 My Portfolio
 
-I enjoy learning how technology works, solving problems with code, working with data, and building practical applications that can make a real difference.
+Check out my live portfolio:
 
-🚀 What I'm Learning
+[**View My Portfolio**](https://okoyo13.github.io/iyf-s12-week-03-okoyo13/)
 
-💻 Programming & Web Development
+## 🛠️ Tech Stack
 
-- HTML & CSS
-- JavaScript
-- Python
-- Flask
-- Git & GitHub
-- APIs and backend development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🤖 Artificial Intelligence
+## 📚 Currently Learning
 
-- AI fundamentals
-- Prompt engineering
-- Natural Language Processing (NLP)
-- Computer Vision
-- AI-powered applications
-- Working with Large Language Models (LLMs)
+- Git commands and terminal navigation
+- Branching, merging, and resolving merge conflicts
+- Pull requests and code reviews
+- Collaborative development workflows
+- Writing meaningful commit messages
+- Managing repositories with GitHub
 
-📊 Data Analysis
+## 📂 IYF Weekly Projects
 
-- Excel
-- Data cleaning
-- SQL
-- Data visualization
-- Power Query
-- Business and operations data analysis
+- [Week 1 — HTML Fundamentals](https://github.com/okoyo13/iyf-s12-week-01-okoyo13)
+- [Week 2 — CSS Fundamentals](https://github.com/okoyo13/iyf-s12-week-02-okoyo13)
+- [Week 3 — Git, GitHub, and Portfolio](https://github.com/okoyo13/iyf-s12-week-03-okoyo13)
 
-🛠️ What I Build
+## 🎯 My Goal
 
-I focus on practical projects that help me turn what I learn into real skills.
+To become a skilled web developer by practicing consistently, building projects, and collaborating with other developers.
 
-Some of the projects I explore include:
+---
 
-- 🌐 Websites and web applications
-- 🤖 AI assistants and chatbots
-- 📊 Data analysis projects
-- 🔌 API-based applications
-- 🗄️ Database-driven applications
-- 🧠 AI-powered solutions
-
-📚 My Learning Approach
-
-I believe the fastest way to improve is to learn, build, make mistakes, fix them, and build again.
-
-«Learn → Practice → Build → Break → Debug → Improve»
-
-Every project is an opportunity to understand something better and become a stronger problem solver.
-
-🎯 My Goal
-
-My goal is to develop strong technical skills and become capable of building intelligent, data-driven applications that solve real-world problems.
-
-I'm continuously improving my knowledge of programming, AI, and data while building projects that demonstrate what I can do.
-
-📂 Explore My Work
-
-Take a look through my repositories to see my projects, experiments, learning exercises, and progress.
-
-I'm still learning, but I'm building consistently and improving one project at a time.
-
-🚀 Keep Learning. Keep Building. Keep Improving.
+Thanks for visiting my profile! 😊
 
 How to Reach Me
 
