@@ -1,4 +1,4 @@
-# Hi, I'm Rodricks Okoyo 👋
+# Hi, I'm Okoyo13 👋
 
 I'm a web development student building my skills in HTML, CSS, JavaScript, Git, and GitHub.
 
