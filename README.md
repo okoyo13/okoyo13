@@ -31,6 +31,19 @@ Check out my live portfolio:
 - [Week 1 — HTML Fundamentals](https://github.com/okoyo13/iyf-s12-week-01-okoyo13)
 - [Week 2 — CSS Fundamentals](https://github.com/okoyo13/iyf-s12-week-02-okoyo13)
 - [Week 3 — Git, GitHub, and Portfolio](https://github.com/okoyo13/iyf-s12-week-03-okoyo13)
+  
+## My Work
+
+### Live Website
+[View Live Page](https://okoyo13.github.io/)
+
+
+### Markdown Practice
+[View markdown-practice.md](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/blob/main/markdown-practice.md)
+
+
+### Team Project
+[Week 00 Team Repository](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13)
 
 ## 🎯 My Goal
 
